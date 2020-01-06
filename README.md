@@ -1,8 +1,5 @@
-# master-data-sciencehola que tal
+# master-data-science
 
-No hay trampa
+You will find here a compilation of Data Science projects and more.
 
-this is a master test
-
-more test
-
+by BR
